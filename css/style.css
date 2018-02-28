@@ -1,0 +1,10 @@
+h1 {
+  color:lightblue;
+}
+.segeln{
+  background-image:url ("https://blog.hays.de/wp-content/uploads/2015/02/20150218-%C2%A9-Andrew-Bayda-Fotolia.com_.jpg");
+background-size: cover;
+background-color: blue;
+  width: 1200 px;
+  height: 1200px;
+}
